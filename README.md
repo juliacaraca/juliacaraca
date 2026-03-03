@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliacaraca
 - 👀 I’m interested in SAP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SAP Projects
 - 📫 How to reach me julia.caraca.sousa@gmail.com
 
 <!---
